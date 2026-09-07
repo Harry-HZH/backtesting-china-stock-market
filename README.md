@@ -24,7 +24,7 @@ cp .env.example .env
 然后只在本地 `.env` 填写：
 
 ```dotenv
-OPENAI_BASE_URL=http://llmapi.bilibili.co/v1
+OPENAI_BASE_URL=your_api_base_url
 OPENAI_MODEL=gemini-3.0-pro
 OPENAI_API_KEY=
 ```
