@@ -1,8 +1,10 @@
 .env
 .venv/
+.workbuddy/
 __pycache__/
 .pytest_cache/
 *.py[cod]
 frontend/node_modules/
 frontend/dist/
+frontend/package-lock.json
 backend/data/
